@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"CyanIsabela2","classId":1,"equips":[3,2,3],"faceIndex":0,"faceName":"","traits":[{"code":22,"dataId":0,"value":0.9},{"code":22,"dataId":1,"value":0.05},{"code":22,"dataId":2,"value":0.15}],"initialLevel":1,"maxLevel":15,"name":"{database.actors.name}","nickname":"{database.actors.nickName}","note":"<Menu Portrait: CyanIsabela_Portrait>\n<Menu Portrait Offset Y: +50>\n","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"","classId":2,"equips":[0,0,0],"faceIndex":1,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"{database.actors.torso}","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"","classId":2,"equips":[31,0,65],"faceIndex":2,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"{database.actors.hip}","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":3,"characterName":"","classId":2,"equips":[31,0,0],"faceIndex":3,"faceName":"","traits":[],"initialLevel":1,"maxLevel":1,"name":"{database.actors.legs}","nickname":"","note":"","profile":""}
+]

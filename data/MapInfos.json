@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
+{"id":2,"expanded":true,"name":"Combat Base","order":2,"parentId":1,"scrollX":752.4,"scrollY":494.4},
+{"id":3,"expanded":false,"name":"Battle Corridor","order":3,"parentId":2,"scrollX":742.8,"scrollY":446.4}
+]

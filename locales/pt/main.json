@@ -1,0 +1,24 @@
+{
+	"interface_language": "Idioma",
+	"options_on": "Ligado",
+	"options_off": "Desligado",
+	"database": {
+		"actors": {
+			"name": "Isabela Bardelli",
+			"nickName": "Bela",
+			"torso": "Torso",
+			"hip": "Quadriu",
+			"legs": "Pernas"
+		},
+		"system1": {
+			"currency": "Edinhos"
+		},
+		"types": {
+			"elements": ["Físico", "Bala", "Perfurante", "Laser", "Explosivo", "Fogo", "Elétrico", "Veneno", "Afiado"],
+			"skillTypes": ["Habilidade", "Fatal"],
+			"weaponTypes": ["Pistola", "12", "Sub", "Rifle", "Metranca", "Sniper", "Lança-granadas", "Míssel"],
+			"armorTypes": ["Calcinha", "Roupas", "Equipamento Tático"],
+			"equipmentTypes": ["Calcinha", "Veste", "Acessório"]
+		}
+	}
+}

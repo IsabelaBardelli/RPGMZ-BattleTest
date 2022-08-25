@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"","etypeId":0,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"-----Armors","note":"","params":[0,0,0,1,0,0,0,0],"price":100},
+{"id":2,"atypeId":1,"description":"[Panty] Everyday panty","etypeId":2,"traits":[],"iconIndex":161,"name":"Black Panty","note":"<ill:latex ball girl (1)>\n<br:{latex-ball-girl-desc}>\n\n\n<Shop Picture Name: item_blackPanty>\n\n<Custom On Remove Equip Eval>\n$gameTemp.reserveCommonEvent(5)\n</Custom On Remove Equip Eval>\n\n","params":[0,0,0,1,0,0,0,0],"price":100},
+{"id":3,"atypeId":3,"description":"[Cyber Suit] Cyan: Expensive Cyber Suit made for Emperials","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":137,"name":"Cyan Cyber Suit","note":"<Shop Picture Name: item_cyberSuitCyan>\n<onUnequip: 6>","params":[0,0,3,15,0,0,5,1],"price":15000},
+{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":6,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":7,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":8,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":9,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":10,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

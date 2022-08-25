@@ -1,0 +1,24 @@
+{
+	"interface_language": "Language",
+	"options_on": "On",
+	"options_off": "Off",
+	"database": {
+		"actors": {
+			"name": "Isabela Bardelli",
+			"nickName": "Belle",
+			"torso": "Torso",
+			"hip": "Hip",
+			"legs": "Legs"
+		},
+		"system1": {
+			"currency": "Eddies"
+		},
+		"types": {
+			"elements": ["Physical", "Bullet", "Piercing", "Laser", "Explosive", "Fire", "Eletric", "Poison", "Sharp"],
+			"skillTypes": ["Skill", "Fatality"],
+			"weaponTypes": ["Pistol", "Shotgun", "SMG", "Rifle", "Machine Gun", "Sniper", "Granade Launcher", "Missile"],
+			"armorTypes": ["Panty", "Clothes", "Tactical Gear"],
+			"equipmentTypes": ["Panty", "Outfit", "Accessory"]
+		}
+	}
+}
